@@ -19,12 +19,6 @@ The calculator uses the Command pattern for operation handling (`src/calculator.
 - Undo/redo functionality
 - Easy addition of new operations
 
-### Singleton Pattern
-History management is implemented as a Singleton (`src/history_manager.py`) ensuring:
-- Single source of truth for calculation history
-- Consistent state across the application
-- Thread-safe history access
-
 ### Factory Method Pattern
 The plugin system (`src/plugin_manager.py`) uses the Factory pattern to:
 - Dynamically load calculator extensions
@@ -93,22 +87,5 @@ Run tests with coverage:
 pytest --cov=src tests/
 ```
 
-## Project Structure
-```
-/advanced_calculator
-├── src/
-│   ├── calculator.py      # Core calculator implementation
-│   ├── plugin_manager.py  # Plugin system
-│   └── repl.py           # User interface
-├── plugins/
-│   └── scientific.py      # Example plugin
-├── logs/                  # Log files
-├── data/                  # History files
-└── main.py               # Entry point
-```
-
 ## Video Demo
 [Link to video demonstration will be added]
-
-## Contributing
-This repository will be made public after the submission deadline. Until then, please keep it private to maintain academic integrity.
