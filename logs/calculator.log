@@ -66,3 +66,12 @@
 2025-03-16 15:01:02,698 - root - INFO - Dividing 444.0 by 4.0
 2025-03-16 15:01:18,828 - root - INFO - Dividing 999.0 by 222.0
 2025-03-16 15:01:26,092 - root - ERROR - Division by zero attempted
+2025-03-16 18:58:08,042 - root - INFO - Starting Advanced Calculator
+2025-03-16 18:58:08,045 - root - INFO - Environment variables loaded
+2025-03-16 18:58:08,051 - root - INFO - Loaded plugin command: LogarithmCommand
+2025-03-16 18:58:08,051 - root - INFO - Loaded plugin command: PowerCommand
+2025-03-16 18:58:08,051 - root - INFO - Loaded plugin command: SquareRootCommand
+2025-03-16 18:58:08,051 - root - INFO - Plugin system initialized
+2025-03-16 18:58:08,085 - root - INFO - Loaded plugin command: LogarithmCommand
+2025-03-16 18:58:08,086 - root - INFO - Loaded plugin command: PowerCommand
+2025-03-16 18:58:08,086 - root - INFO - Loaded plugin command: SquareRootCommand
