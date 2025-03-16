@@ -35,6 +35,7 @@ logs/
 env/
 venv/
 ENV/
+myenv/
 
 # IDE
 .idea/
@@ -45,3 +46,15 @@ ENV/
 # Project-specific
 data/
 !data/.gitkeep
+
+*UsersrukhmAppDataLocalTemppytest-of-rukhmpytest-22test_save_load_history0test_history.csv
+*UsersrukhmAppDataLocalTemppytest-of-rukhmpytest-23test_save_load_history0test_history.csv
+*UsersrukhmAppDataLocalTemppytest-of-rukhmpytest-24test_save_load_history0test_history.csv
+*UsersrukhmAppDataLocalTemppytest-of-rukhmpytest-25test_save_load_history0test_history.csv
+*UsersrukhmAppDataLocalTemppytest-of-rukhmpytest-26test_save_load_history0test_history.csv
+*UsersrukhmAppDataLocalTemppytest-of-rukhmpytest-27test_save_load_history0test_history.csv
+*UsersrukhmAppDataLocalTemppytest-of-rukhmpytest-28test_save_load_history0test_history.csv
+*UsersrukhmAppDataLocalTemppytest-of-rukhmpytest-29test_save_load_history0test_history.csv
+*UsersrukhmAppDataLocalTemppytest-of-rukhmpytest-30test_save_load_history0test_history.csv
+*UsersrukhmAppDataLocalTemppytest-of-rukhmpytest-31test_save_load_history0test_history.csv
+*test.csv
