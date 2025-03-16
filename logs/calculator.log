@@ -1,0 +1,68 @@
+2025-03-15 17:19:15,659 - root - INFO - Logging initialized at level INFO
+2025-03-15 17:19:15,663 - src.plugin_manager - INFO - Plugin manager initialized
+2025-03-15 17:19:15,664 - src.plugin_manager - INFO - Successfully loaded plugin command: logarithm
+2025-03-15 17:19:15,664 - src.plugin_manager - INFO - Successfully loaded plugin command: power
+2025-03-15 17:19:15,664 - src.plugin_manager - INFO - Successfully loaded plugin command: squareroot
+2025-03-15 17:19:15,664 - src.calculator - INFO - Registered new command: logarithm
+2025-03-15 17:19:15,664 - src.calculator - INFO - Registered new command: power
+2025-03-15 17:19:15,699 - src.calculator - INFO - Registered new command: squareroot
+2025-03-15 17:19:15,699 - src.repl - INFO - Plugins loaded successfully
+2025-03-15 17:19:15,699 - src.repl - INFO - REPL initialized
+2025-03-15 17:19:36,275 - root - INFO - Logging initialized at level INFO
+2025-03-15 17:19:36,279 - src.plugin_manager - INFO - Plugin manager initialized
+2025-03-15 17:19:36,281 - src.plugin_manager - INFO - Successfully loaded plugin command: logarithm
+2025-03-15 17:19:36,281 - src.plugin_manager - INFO - Successfully loaded plugin command: power
+2025-03-15 17:19:36,281 - src.plugin_manager - INFO - Successfully loaded plugin command: squareroot
+2025-03-15 17:19:36,281 - src.calculator - INFO - Registered new command: logarithm
+2025-03-15 17:19:36,282 - src.calculator - INFO - Registered new command: power
+2025-03-15 17:19:36,282 - src.calculator - INFO - Registered new command: squareroot
+2025-03-15 17:19:36,282 - src.repl - INFO - Plugins loaded successfully
+2025-03-15 17:19:36,282 - src.repl - INFO - REPL initialized
+2025-03-15 17:19:45,223 - root - INFO - Logging initialized at level INFO
+2025-03-15 17:19:45,228 - src.plugin_manager - INFO - Plugin manager initialized
+2025-03-15 17:19:45,230 - src.plugin_manager - INFO - Successfully loaded plugin command: logarithm
+2025-03-15 17:19:45,230 - src.plugin_manager - INFO - Successfully loaded plugin command: power
+2025-03-15 17:19:45,231 - src.plugin_manager - INFO - Successfully loaded plugin command: squareroot
+2025-03-15 17:19:45,231 - src.calculator - INFO - Registered new command: logarithm
+2025-03-15 17:19:45,231 - src.calculator - INFO - Registered new command: power
+2025-03-15 17:19:45,231 - src.calculator - INFO - Registered new command: squareroot
+2025-03-15 17:19:45,231 - src.repl - INFO - Plugins loaded successfully
+2025-03-15 17:19:45,231 - src.repl - INFO - REPL initialized
+2025-03-15 17:20:03,254 - root - INFO - Logging initialized at level INFO
+2025-03-15 17:20:03,257 - src.plugin_manager - INFO - Plugin manager initialized
+2025-03-15 17:20:03,259 - src.plugin_manager - INFO - Successfully loaded plugin command: logarithm
+2025-03-15 17:20:03,259 - src.plugin_manager - INFO - Successfully loaded plugin command: power
+2025-03-15 17:20:03,259 - src.plugin_manager - INFO - Successfully loaded plugin command: squareroot
+2025-03-15 17:20:03,259 - src.calculator - INFO - Registered new command: logarithm
+2025-03-15 17:20:03,259 - src.calculator - INFO - Registered new command: power
+2025-03-15 17:20:03,259 - src.calculator - INFO - Registered new command: squareroot
+2025-03-15 17:20:03,259 - src.repl - INFO - Plugins loaded successfully
+2025-03-15 17:20:03,259 - src.repl - INFO - REPL initialized
+2025-03-16 13:58:48,571 - root - INFO - Starting Advanced Calculator
+2025-03-16 13:58:48,596 - root - INFO - Environment variables loaded
+2025-03-16 13:58:48,608 - root - INFO - Loaded plugin command: LogarithmCommand
+2025-03-16 13:58:48,608 - root - INFO - Loaded plugin command: PowerCommand
+2025-03-16 13:58:48,608 - root - INFO - Loaded plugin command: SquareRootCommand
+2025-03-16 13:58:48,608 - root - INFO - Plugin system initialized
+2025-03-16 13:58:48,642 - root - INFO - Loaded plugin command: LogarithmCommand
+2025-03-16 13:58:48,642 - root - INFO - Loaded plugin command: PowerCommand
+2025-03-16 13:58:48,643 - root - INFO - Loaded plugin command: SquareRootCommand
+2025-03-16 13:59:12,347 - root - INFO - Adding 1.0 and 3.0
+2025-03-16 13:59:21,383 - root - INFO - Subtracting 2.0 from 3.0
+2025-03-16 13:59:33,203 - root - INFO - Multiplying 2.0 and 3.0
+2025-03-16 13:59:39,743 - root - INFO - Dividing 4.0 by 2.0
+2025-03-16 13:59:45,016 - root - ERROR - Division by zero attempted
+2025-03-16 14:59:42,439 - root - INFO - Starting Advanced Calculator
+2025-03-16 14:59:42,472 - root - INFO - Environment variables loaded
+2025-03-16 14:59:42,473 - root - INFO - Loaded plugin command: LogarithmCommand
+2025-03-16 14:59:42,473 - root - INFO - Loaded plugin command: PowerCommand
+2025-03-16 14:59:42,473 - root - INFO - Loaded plugin command: SquareRootCommand
+2025-03-16 14:59:42,473 - root - INFO - Plugin system initialized
+2025-03-16 14:59:42,491 - root - INFO - Loaded plugin command: LogarithmCommand
+2025-03-16 14:59:42,492 - root - INFO - Loaded plugin command: PowerCommand
+2025-03-16 14:59:42,492 - root - INFO - Loaded plugin command: SquareRootCommand
+2025-03-16 15:00:41,947 - root - INFO - Adding 10.0 and 10.0
+2025-03-16 15:00:52,493 - root - INFO - Adding 250.0 and 305.0
+2025-03-16 15:01:02,698 - root - INFO - Dividing 444.0 by 4.0
+2025-03-16 15:01:18,828 - root - INFO - Dividing 999.0 by 222.0
+2025-03-16 15:01:26,092 - root - ERROR - Division by zero attempted
