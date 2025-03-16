@@ -25,10 +25,6 @@ wheels/
 coverage.xml
 htmlcov/
 
-# Logs
-logs/
-*.log
-
 # Environment
 .env
 .venv
@@ -44,7 +40,6 @@ myenv/
 *.swo
 
 # Project-specific
-data/
 !data/.gitkeep
 
 *UsersrukhmAppDataLocalTemppytest-of-rukhmpytest-22test_save_load_history0test_history.csv
