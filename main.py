@@ -8,10 +8,10 @@ import os
 import sys
 import logging
 from logging.handlers import RotatingFileHandler
-from dotenv import load_dotenv
+from dotenv import load_dotenv # type: ignore
 
 from src.repl import CalculatorREPL
-from src.plugin_manager import PluginManager
+from src.plugin_mananger import PluginManager
 
 def setup_logging() -> None:
     """Configure logging with file and console handlers"""
