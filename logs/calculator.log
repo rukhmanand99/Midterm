@@ -75,3 +75,45 @@
 2025-03-16 18:58:08,085 - root - INFO - Loaded plugin command: LogarithmCommand
 2025-03-16 18:58:08,086 - root - INFO - Loaded plugin command: PowerCommand
 2025-03-16 18:58:08,086 - root - INFO - Loaded plugin command: SquareRootCommand
+2025-03-16 19:36:12,448 - root - INFO - Starting Advanced Calculator
+2025-03-16 19:36:12,481 - root - INFO - Environment variables loaded
+2025-03-16 19:36:12,483 - root - INFO - Loaded plugin command: LogarithmCommand
+2025-03-16 19:36:12,483 - root - INFO - Loaded plugin command: PowerCommand
+2025-03-16 19:36:12,483 - root - INFO - Loaded plugin command: SquareRootCommand
+2025-03-16 19:36:12,483 - root - INFO - Plugin system initialized
+2025-03-16 19:36:12,508 - root - INFO - Loaded plugin command: LogarithmCommand
+2025-03-16 19:36:12,508 - root - INFO - Loaded plugin command: PowerCommand
+2025-03-16 19:36:12,508 - root - INFO - Loaded plugin command: SquareRootCommand
+2025-03-16 19:36:34,408 - root - INFO - Adding 2.0 and 3.0
+2025-03-16 19:36:51,918 - root - INFO - Subtracting 2.0 from 3.0
+2025-03-16 19:37:09,761 - root - INFO - Multiplying 4.0 and 5.0
+2025-03-16 19:37:21,637 - root - INFO - Dividing 10.0 by 5.0
+2025-03-16 19:37:33,534 - root - ERROR - Division by zero attempted
+2025-03-16 19:56:28,221 - root - INFO - Starting Advanced Calculator
+2025-03-16 19:56:28,221 - root - INFO - Environment variables loaded
+2025-03-16 19:56:28,254 - root - INFO - Loaded plugin command: LogarithmCommand
+2025-03-16 19:56:28,255 - root - INFO - Loaded plugin command: PowerCommand
+2025-03-16 19:56:28,255 - root - INFO - Loaded plugin command: SquareRootCommand
+2025-03-16 19:56:28,255 - root - INFO - Plugin system initialized
+2025-03-16 19:56:28,293 - root - INFO - Loaded plugin command: LogarithmCommand
+2025-03-16 19:56:28,294 - root - INFO - Loaded plugin command: PowerCommand
+2025-03-16 19:56:28,294 - root - INFO - Loaded plugin command: SquareRootCommand
+2025-03-16 19:57:00,442 - root - INFO - Adding 3.0 and 4.0
+2025-03-16 19:57:09,309 - root - INFO - Subtracting 3.0 from 5.0
+2025-03-16 19:57:18,513 - root - INFO - Multiplying 5.0 and 4.0
+2025-03-16 19:57:23,785 - root - INFO - Dividing 5.0 by 2.0
+2025-03-16 19:57:34,100 - root - ERROR - Division by zero attempted
+2025-03-16 20:09:39,219 - root - INFO - Starting Advanced Calculator
+2025-03-16 20:09:39,222 - root - INFO - Environment variables loaded
+2025-03-16 20:09:39,222 - root - INFO - Loaded plugin command: LogarithmCommand
+2025-03-16 20:09:39,223 - root - INFO - Loaded plugin command: PowerCommand
+2025-03-16 20:09:39,227 - root - INFO - Loaded plugin command: SquareRootCommand
+2025-03-16 20:09:39,227 - root - INFO - Plugin system initialized
+2025-03-16 20:09:39,257 - root - INFO - Loaded plugin command: LogarithmCommand
+2025-03-16 20:09:39,257 - root - INFO - Loaded plugin command: PowerCommand
+2025-03-16 20:09:39,257 - root - INFO - Loaded plugin command: SquareRootCommand
+2025-03-16 20:09:57,510 - root - INFO - Adding 2.0 and 3.0
+2025-03-16 20:10:04,216 - root - INFO - Subtracting 2.0 from 4.0
+2025-03-16 20:10:14,919 - root - INFO - Multiplying 4.0 and 5.0
+2025-03-16 20:10:24,817 - root - INFO - Dividing 4.0 by 5.0
+2025-03-16 20:10:33,883 - root - ERROR - Division by zero attempted
