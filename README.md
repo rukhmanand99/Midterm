@@ -88,4 +88,4 @@ pytest --cov=src tests/
 ```
 
 ## Video Demo
-[Link to video demonstration will be added]
+video link : https://drive.google.com/file/d/1cD5qVlrIefliBugi91NcQ86sqeEscW5I/view?usp=sharing
