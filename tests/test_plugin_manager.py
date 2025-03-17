@@ -10,9 +10,9 @@ from src.plugin_mananger import PluginManager, PluginLoadError
 
 class TestCommand:
     """Test command for plugin system testing"""
-    def execute(self, a: float, b: float) -> float:
+    def execute(self, first_value: float, second_value: float) -> float:
         """Test command execution"""
-        return a + b
+        return first_value + second_value
 
     def get_description(self) -> str:
         """Get command description"""
